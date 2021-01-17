@@ -13,11 +13,44 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O CapacitaAê é uma aplicação com o objetivo de unir empresas que podem qualificar 
-e gerar emprego para jovens 💜
+e gerar emprego para jovens ♥
+
+## :information_source: Como Usar
+
+Para clonar e rodar o aplicativo, voce vai precisar do [Git](https://git-scm.com), e o ambiente do React native e Expo configurados.
+
+No terminal:
+
+### Instalação
+
+```bash
+# Clone o repositório
+$ git clone https://github.com/pgfultz/ccr-hackathon-mobile.git
+
+# Acesse a pasta do projeto
+$ cd ccr-hackathon-mobile
+
+# Instale as dependências
+$ yarn install
+
+# Rode a aplicação
+$ expo start
+
+# O Expo irá abrir. Abra o aplicativo do expo no celular e escaneie o qrcode
+
+```
+
+## 🤔 Como contribuir
+
+-  Faça um fork;
+-  Crie uma branch com sua feature: `git checkout -b my-feature`;
+-  Faça um commit das mudanças: `git commit -m 'feat: My new feature'`;
+-  Faça um push para sua branch: `git push origin my-feature`.
+
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT.
 
 ---
 
