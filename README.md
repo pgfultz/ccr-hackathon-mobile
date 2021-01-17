@@ -56,7 +56,7 @@ Esse projeto está sob a licença MIT.
 
 Feito com ♥ by: 
 - [Lucas Morais](https://github.com/pgfultz)
-- [Icoana Laís](https://github.com/pgfultz)
+- [Icoana Laís](https://github.com/icoanalais)
 - [Daniela Peixoto](https://github.com/pgfultz)
 - [Bruno Moraes](https://github.com/Bruno-H-Moraes)
 - [Isis Ferreira](https://github.com/pgfultz)
