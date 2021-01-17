@@ -2,8 +2,8 @@
   "name": "mobile",
   "displayName": "mobile",
   "expo": {
-    "name": "mobile",
-    "slug": "mobile",
+    "name": "CapacitaAe",
+    "slug": "CapacitaAe",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
