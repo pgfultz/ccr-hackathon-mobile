@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
+  <img alt="Happy" src="https://i.imgur.com/bQ1Ioa8.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -12,7 +12,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O CapacitaAê é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜
+O CapacitaAê é uma aplicação com o objetivo de unir empresas que podem qualificar 
+e gerar emprego para jovens 💜
 
 ## :memo: Licença
 
@@ -20,4 +21,9 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Lucas Morais: [@pgfultz](https://github.com/pgfultz)
+Feito com ♥ by: 
+- [Lucas Morais](https://github.com/pgfultz)
+- [Icoana Laís](https://github.com/pgfultz)
+- [Daniela Peixoto](https://github.com/pgfultz)
+- [Bruno Moraes](https://github.com/Bruno-H-Moraes)
+- [Isis Ferreira](https://github.com/pgfultz)
